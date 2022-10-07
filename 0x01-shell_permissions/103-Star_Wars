@@ -1,2 +1,2 @@
-#!/bin/bash
-telent towel.blinkenlights.nl
+#!/bin/nash
+telent http://towel.blinkenlights.nl
