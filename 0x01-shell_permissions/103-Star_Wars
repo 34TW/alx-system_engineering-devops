@@ -1,2 +1,3 @@
-#!/bin/nash
-telent http://towel.blinkenlights.nl
+#!/bin/bash
+sudo apt install telnet
+telnet towel.blinkenlights.nl
